@@ -1,0 +1,14 @@
+ABOUT
+    The 3DOF Library provides you the required functions/blocks in order to obtain the system dynamic matrices of a 3dof robotic arm.
+    These matrices can be used for dynamical simulations in Simulink.
+
+HOWTO
+
+- Unzip the files in a folder (example: /simulation).
+- Run MATLAB (to avoid problems, it should be better to use MATLAB 2017b or later versions).
+- (in MATLAB) Move to the directory where you just unzipped the files.
+- Run init.m
+- Open library "m3dof_library.slx" using the file explorer in MATLAB or by typing in the console: m3dof_library
+- Create a new model (SLX) and start developing your simulations (drag/drop or copy paste blocks from the library in your model).
+
+For any problem, contact us at davide.calzolari@tum.de
